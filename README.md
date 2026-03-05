@@ -25,7 +25,7 @@ This repo contains series of Drugs Discovery using Machine Learning with Festus.
 
 ---
 
-## MODULE 2: LIPINSKI RULE OF FIVE (Videos 4a-4g)
+## MODULE 2: LIPINSKI RULE OF FIVE (Videos 4a-4h)
 
 | Video | Title | Description |
 |-------|-------|-------------|
@@ -141,7 +141,7 @@ This repo contains series of Drugs Discovery using Machine Learning with Festus.
 |--------|-------|------------------|
 | 0 | Setup and Introduction | 1 |
 | 1 | Molecular Basics | 3 |
-| 2 | Lipinski Rule of Five | 7 |
+| 2 | Lipinski Rule of Five | 8 |
 | 3 | Molecular Fingerprints | 7 |
 | 4 | QSAR Fundamentals and Data Acquisition | 7 |
 | 5 | Exploratory Data Analysis | 8 |
@@ -150,4 +150,4 @@ This repo contains series of Drugs Discovery using Machine Learning with Festus.
 | 8 | Advanced Modeling and Validation | 4 |
 | 9 | Practical Application | 2 |
 | 10 | Course Completion | 1 |
-| **TOTAL** | | **55 Videos** |
+| **TOTAL** | | **56 Videos** |
