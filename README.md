@@ -61,9 +61,7 @@ This repo contains series of Drugs Discovery using Machine Learning with Festus.
 | **Video 7** | Types of Bioactivity Data in Drug Discovery | IC50, pIC50, active/inactive. Converting IC50 to pIC50. Why pIC50 is better for modeling. |
 | **Video 8** | Introduction to ChEMBL Database | Overview of ChEMBL. Data types: compounds, targets, assays. Web interface vs API. |
 | **Video 9** | Searching ChEMBL by Target Protein (COX-2 Example) | Finding human COX-2 target ID. Understanding confidence scores and assay types. |
-| **Video 10** | Downloading ChEMBL Data for COX-2 | Using ChEMBL API. Fetching bioactivity records. Saving raw data to CSV. |
-| **Video 11** | Filtering and Cleaning ChEMBL Data | Removing invalid SMILES. Handling duplicates. Keeping only IC50 values in nM. |
-| **Video 12** | Defining Active and Inactive Classes | Setting activity threshold (pIC50 > 6 = active). Creating binary classification labels. |
+| **Video 10-12** | Downloading ChEMBL Data for COX-2 | Using ChEMBL API. Fetching bioactivity records. Saving raw data to CSV. |
 
 ---
 
