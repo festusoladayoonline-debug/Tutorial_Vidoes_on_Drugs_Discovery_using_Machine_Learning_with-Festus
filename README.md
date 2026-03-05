@@ -3,7 +3,7 @@ This repo contains series of Drugs Discovery using Machine Learning with Festus.
 
 ## COMPLETE VIDEO SERIES: MACHINE LEARNING FOR DRUG DISCOVERY
 
-### Total Videos: 55
+### Total Videos: 56
 
 ---
 
