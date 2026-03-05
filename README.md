@@ -36,7 +36,7 @@ This repo contains series of Drugs Discovery using Machine Learning with Festus.
 | **Video 4e** | Molecular Weight - Fourth Lipinski Rule | Calculating molecular weight. Why heavy molecules struggle to cross membranes. |
 | **Video 4f** | Topological Polar Surface Area (TPSA) | Calculating TPSA. Relationship between TPSA and cell permeability. |
 | **Video 4g** | Complete Lipinski Analysis | Combining all five properties. Creating a pass/fail table for drug-likeness. |
-
+| **Video 4h** | Complete Lipinski Analysis | Checking Lipinski Rule Compliance. |
 ---
 
 ## MODULE 3: MOLECULAR FINGERPRINTS (Videos 5-5g)
